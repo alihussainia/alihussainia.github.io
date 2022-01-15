@@ -1,6 +1,6 @@
 # Personal Blog Website
 
-Welcome to my **Personal Blog Project** for the Udacity's Front End Developer Nanodegree program.
+Welcome to my **resume site** and thanks for dropping by =).
 
 ## License
 MIT License
