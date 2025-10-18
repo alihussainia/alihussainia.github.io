@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Project One",
+        "description": "A brief description of Project One.",
+        "link": "https://example.com/project-one",
+        "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "title": "Project Two",
+        "description": "A brief description of Project Two.",
+        "link": "https://example.com/project-two",
+        "technologies": ["React", "Node.js", "Express"]
+    },
+    {
+        "title": "Project Three",
+        "description": "A brief description of Project Three.",
+        "link": "https://example.com/project-three",
+        "technologies": ["Python", "Flask", "SQLAlchemy"]
+    },
+    {
+        "title": "Project Four",
+        "description": "A brief description of Project Four.",
+        "link": "https://example.com/project-four",
+        "technologies": ["Java", "Spring Boot", "MySQL"]
+    }
+]
